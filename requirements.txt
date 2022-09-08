@@ -1,0 +1,16 @@
+git+https://github.com/yujincheng08/aiocqhttp@guild
+Jinja2~=2.11.2
+MarkupSafe~=1.0
+werkzeug~=1.0.1
+aiohttp
+httpx
+requests
+nonebot
+psutil
+ujson
+datetime
+zhconv
+matplotlib
+pygtrie
+ratelimit
+msgpack
